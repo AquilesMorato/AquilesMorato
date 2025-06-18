@@ -29,5 +29,5 @@
 
  📫 Entre em contato:
 - ✉️ Email: aquilesmorato07@gmail.com
-- 💼 [LinkedIn]([https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/aquiles-morato-2722b52b0/)) 
+- 💼 [LinkedIn][https://www.linkedin.com/in/seu-usuario/](https://www.linkedin.com/in/aquiles-morato-2722b52b0/ 
 
